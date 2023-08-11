@@ -8,7 +8,7 @@ Attention : described as alertness or ability to engage with surroundings
 
 -when a person is shown with multiple images , the eye movement can show his attention on the most attracted part 
 
-"""Neurons at the earliest stages are tuned to simple visual attributes such as intensity contrast, colour opponency, orientation, direction and velocity of motion, or stereo disparity at several spatial scales. Neuronal tuning becomes increasingly more specialized with the progression from low-level to high-level visual areas, such that higher-level visual areas include neurons that respond only to corners or junctions, shape-from-shading cues or views of specific real-world objects."""
+->Neurons at the earliest stages are tuned to simple visual attributes such as intensity contrast, colour opponency, orientation, direction and velocity of motion, or stereo disparity at several spatial scales. Neuronal tuning becomes increasingly more specialized with the progression from low-level to high-level visual areas, such that higher-level visual areas include neurons that respond only to corners or junctions, shape-from-shading cues or views of specific real-world objects.
 
 relation between human memory and attention:
 -it stores information in the memory that the human subject most pays attention too.
