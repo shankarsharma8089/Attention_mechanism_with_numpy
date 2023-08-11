@@ -10,7 +10,8 @@ Attention : described as alertness or ability to engage with surroundings
 
 ->Neurons at the earliest stages are tuned to simple visual attributes such as intensity contrast, colour opponency, orientation, direction and velocity of motion, or stereo disparity at several spatial scales. Neuronal tuning becomes increasingly more specialized with the progression from low-level to high-level visual areas, such that higher-level visual areas include neurons that respond only to corners or junctions, shape-from-shading cues or views of specific real-world objects.
 
-relation between human memory and attention:
+#Relation between human memory and attention:
+
 -it stores information in the memory that the human subject most pays attention too.
 
 -This model allow the network to focus on different aspects of complex input individually until the entire data set is categorized. 
@@ -21,7 +22,7 @@ relation between human memory and attention:
 
 -In  translation systems , Instead of translating word by word, attention mechanisms assign fixed-length vectors to capture the overall meaning and sentiment of the input, resulting in more accurate translations.
 
--working :
+#Working :
 
 ->attention models make use of a function that maps a query and a set of key-value pairs to generate an output. 
 
