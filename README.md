@@ -1,4 +1,4 @@
-# Attention_mechanism_with_numpy-and-scipy
+# Attention_mechanism_with_numpy
 
 ->Attention mechanism is a type of neural network layer that allows the model to selectively focus on different parts of the input when making predictions.
 
